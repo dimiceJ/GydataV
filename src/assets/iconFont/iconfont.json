@@ -1,0 +1,30 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "47538113",
+      "name": "设备名称1",
+      "font_class": "shebeimingcheng",
+      "unicode": "e6de",
+      "unicode_decimal": 59102
+    },
+    {
+      "icon_id": "47573246",
+      "name": "标点、地点",
+      "font_class": "biaodiandidian-copy",
+      "unicode": "e868",
+      "unicode_decimal": 59496
+    },
+    {
+      "icon_id": "47573275",
+      "name": "时间 (1)",
+      "font_class": "shijian-copy",
+      "unicode": "e869",
+      "unicode_decimal": 59497
+    }
+  ]
+}

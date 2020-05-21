@@ -1,0 +1,41 @@
+@import url("../iconFont/iconfont.css");
+
+.index .wrapper {
+  min-height: 726px;
+  /*no*/
+  min-width: 960px;
+  /*no*/
+}
+
+.left-top-title {
+  display: flex;
+  justify-content: space-between;
+  padding-right: 24px;
+}
+
+.title {
+  font-size: 16px;
+}
+
+.wrapper {
+  color: #fff;
+}
+
+.l-t-total-school {
+  padding: 14px;
+}
+
+.l-b-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 20px;
+  margin-bottom: 32px;
+}
+
+
+
+
+
+
+
+
